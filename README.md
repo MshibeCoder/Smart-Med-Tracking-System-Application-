@@ -1,5 +1,3 @@
-# A 2nd year software development application created in C#, using ADO.NET that performs CRUD operations using SQL.
-
 A Windows Forms application "Smart-Med Tracking System" 
 written in C# using (.NET Core) 
 that performs CRUD 
