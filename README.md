@@ -2,6 +2,7 @@ A Windows Forms application "Smart-Med Tracking System"
 written in C# using (.NET Core) 
 that performs CRUD 
 operations using SQL database
+which is connected to C#, accessible by the forms.
 
 ## Features
 - Create, read, update and delete records
