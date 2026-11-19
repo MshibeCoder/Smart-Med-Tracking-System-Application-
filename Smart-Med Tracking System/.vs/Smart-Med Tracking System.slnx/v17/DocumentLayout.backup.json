@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\welcome page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:welcome page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\recepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:recepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\recepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:recepient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:frmorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\frmaddvaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:frmaddvaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\frmaddvaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:frmaddvaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\adminstrator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:adminstrator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\admin\\downloads\\smart-med tracking system (2) (1)\\smart-med tracking system\\smart-med tracking system\\recepient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:recepient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recepient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.cs",
+              "RelativeDocumentMoniker": "Recepient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.cs [Design]",
+              "RelativeToolTip": "Recepient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T09:44:14.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAQwNgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T10:05:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminstrator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs",
+              "RelativeDocumentMoniker": "Adminstrator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs [Design]",
+              "RelativeToolTip": "Adminstrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:22:38.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recepient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.cs",
+              "RelativeDocumentMoniker": "Recepient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.cs",
+              "RelativeToolTip": "Recepient.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAwJMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:33:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sign Up.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Sign Up.cs",
+              "RelativeDocumentMoniker": "Sign Up.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Sign Up.cs [Design]",
+              "RelativeToolTip": "Sign Up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:41:33.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Welcome Page.cs",
+              "RelativeDocumentMoniker": "Welcome Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Welcome Page.cs [Design]",
+              "RelativeToolTip": "Welcome Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:48:33.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOrderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmOrderDetails.cs",
+              "RelativeDocumentMoniker": "frmOrderDetails.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmOrderDetails.cs [Design]",
+              "RelativeToolTip": "frmOrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:04:29.471Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmOrderDetails.cs",
+              "RelativeDocumentMoniker": "frmOrderDetails.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmOrderDetails.cs",
+              "RelativeToolTip": "frmOrderDetails.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:17:38.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Adminstrator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs",
+              "RelativeDocumentMoniker": "Adminstrator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs",
+              "RelativeToolTip": "Adminstrator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:31:32.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sign Up.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Sign Up.cs",
+              "RelativeDocumentMoniker": "Sign Up.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Sign Up.cs",
+              "RelativeToolTip": "Sign Up.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:57:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs",
+              "RelativeDocumentMoniker": "Login Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs [Design]",
+              "RelativeToolTip": "Login Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:23:20.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login Page.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs",
+              "RelativeDocumentMoniker": "Login Page.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs",
+              "RelativeToolTip": "Login Page.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvx4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:26:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAddVaccine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmAddVaccine.cs",
+              "RelativeDocumentMoniker": "frmAddVaccine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmAddVaccine.cs [Design]",
+              "RelativeToolTip": "frmAddVaccine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:56:09.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAddVaccine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmAddVaccine.cs",
+              "RelativeDocumentMoniker": "frmAddVaccine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\frmAddVaccine.cs",
+              "RelativeToolTip": "frmAddVaccine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:58:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Assistant.cs",
+              "RelativeDocumentMoniker": "Assistant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Assistant.cs",
+              "RelativeToolTip": "Assistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:33:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Assistant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Assistant.cs",
+              "RelativeDocumentMoniker": "Assistant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Assistant.cs [Design]",
+              "RelativeToolTip": "Assistant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T03:22:48.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Recepient.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.Designer.cs",
+              "RelativeDocumentMoniker": "Recepient.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Recepient.Designer.cs",
+              "RelativeToolTip": "Recepient.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:13:57.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Adminstrator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.Designer.cs",
+              "RelativeDocumentMoniker": "Adminstrator.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Smart-Med Tracking System (2) (1)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.Designer.cs",
+              "RelativeToolTip": "Adminstrator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:11:24.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

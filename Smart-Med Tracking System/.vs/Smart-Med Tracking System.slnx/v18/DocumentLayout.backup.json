@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\user\\documents\\ont2030 project research\\smart-med tracking system(final)\\smart-med tracking system\\smart-med tracking system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\user\\documents\\ont2030 project research\\smart-med tracking system(final)\\smart-med tracking system\\smart-med tracking system\\adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:adminstrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|c:\\users\\user\\documents\\ont2030 project research\\smart-med tracking system(final)\\smart-med tracking system\\smart-med tracking system\\smart-med tracking system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A9940E6-CBB2-1962-37A9-BE5D4E7C2627}|Smart-Med Tracking System.csproj|solutionrelative:smart-med tracking system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login Page.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs",
+              "RelativeDocumentMoniker": "Login Page.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Login Page.cs",
+              "RelativeToolTip": "Login Page.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:19:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminstrator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs",
+              "RelativeDocumentMoniker": "Adminstrator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Adminstrator.cs",
+              "RelativeToolTip": "Adminstrator.cs",
+              "ViewState": "AgIAAAwAAABQ/////38ywBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T10:52:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smart-Med Tracking System",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Smart-Med Tracking System.csproj",
+              "RelativeDocumentMoniker": "Smart-Med Tracking System.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\ONT2030 Project Research\\Smart-Med Tracking System(Final)\\Smart-Med Tracking System\\Smart-Med Tracking System\\Smart-Med Tracking System.csproj",
+              "RelativeToolTip": "Smart-Med Tracking System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-10T10:39:58.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
